@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+.square {
+  width: 75px;
+  height: 75px;
+  border: solid 1px black;
+  font-size: 50px;
+  padding: 0;
+  text-align: center;
+  background-color: rgb(211, 47, 47);
+  border-radius: 50px;
+  margin: 10px;
+}
+.board-row {
+  min-width: 300px;
+  display: flex;
+  text-align: center;
+}
+.game {
+  display: block;
+  margin-left: 40%;
+  margin-right: auto;
+}
+.status {
+  font-size: 25px;
+  margin-left: 8%;
+}
